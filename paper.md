@@ -102,7 +102,7 @@ All figures (GAN loss, emotion trajectories, stage correlations) are reproducibl
 * Results are deterministic under identical hardware.
 * The repository is permanently archived at Zenodo:
 
-> DOI: [10.5281/zenodo.xxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxx)
+> DOI: [10.5281/zenodo.17401003](https://doi.org/10.5281/zenodo.17401003)
 
 # Acknowledgements
 
