@@ -2,7 +2,7 @@
 
 *A reproducible implementation of a GAN-based model for emotional dynamics in cultural evolution*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17401003.svg)](https://doi.org/10.5281/zenodo.17401003)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![HuggingFace Space](https://img.shields.io/badge/Demo-HuggingFace-blue)](https://huggingface.co/spaces/ayaka68/placeemotion-gan)
 
