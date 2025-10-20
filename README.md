@@ -32,22 +32,15 @@ The model simulates how affective states — *joy, fear, trust, and expectation*
 ### 🧩 Repository Structure
 
 ```
-aonoa68-PlaceEmotionGAN/
-├── train.py                # main training loop
-├── lambda_scheduler.py     # λ scheduling module
-├── sensitivity.py          # sensitivity analysis CLI
-├── models/
-│   ├── generator.py
-│   ├── discriminator.py
-│   └── losses.py
-├── data/
-│   ├── place_embeddings.npy
-│   └── emotion_vectors.csv
-├── utils/
-│   ├── metrics.py
-│   └── visualizer.py
-└── notebooks/
-    └── analysis.ipynb
+PlaceEmotionGAN/
+├── lambda_scheduler.py # λ scheduling (linear / logistic / delayed)
+├── losses.py # Loss formulation (1−λ)adv − λβ*reward
+├── train.py # Main training simulation loop
+├── sensitivity.py # Sensitivity analysis (linear/logistic/delayed)
+├── requirements.txt
+├── Dockerfile
+├── paper.md
+└── paper.bib
 ```
 
 ---
