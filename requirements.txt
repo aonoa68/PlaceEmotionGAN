@@ -1,0 +1,17 @@
+# ===== PlaceEmotion-GAN (simulation version) =====
+# Minimal dependencies for full reproducibility and plotting (JOSS submission)
+
+# --- Core numerical computation ---
+numpy>=1.23
+
+# --- Optional but recommended for visualization and CSV manipulation ---
+matplotlib>=3.7
+pandas>=2.0
+
+# --- For development and reproducibility ---
+# (ensures consistent paths and Python 3.10+ compatibility)
+typing-extensions>=4.5
+
+# --- Version note ---
+# Tested on macOS (Python 3.10–3.12)
+# CPU-only; no PyTorch required for this minimal simulation
