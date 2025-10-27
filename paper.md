@@ -8,7 +8,7 @@ tags:
   - computational social science
 authors:
   - name: Ayaka Onohara
-    orcid: 0000-0002-XXXX-XXXX
+    orcid: 0009-0004-3082-3267
     affiliation: 1
 affiliations:
   - name: Center for Social Information Education and Research, Rikkyo University, Japan
