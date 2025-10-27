@@ -133,7 +133,7 @@ If you use this code, please cite:
   title   = {PlaceEmotion-GAN: A reproducible implementation of a GAN-based model for emotional dynamics in cultural evolution},
   journal = {Journal of Open Source Software},
   year    = {2025},
-  doi     = {10.5281/zenodo.xxxxxxx}
+  doi     = {10.5281/zenodo.17401002}
 }
 ```
 
