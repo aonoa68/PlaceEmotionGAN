@@ -106,7 +106,7 @@ All figures (GAN loss, emotion trajectories, stage correlations) are reproducibl
 
 # Acknowledgements
 
-This work was supported by JSPS KAKENHI (Grant-in-Aid for Early-Career Scientists, JP21K17890).
+This work was supported by JSPS KAKENHI (Grant-in-Aid for Early-Career Scientists, 24K16071).
 Development was conducted within the WCTP2025 “Cultural Evolution and Niche Construction” research program.
 The author thanks the OSGeo-JP community for constructive input on open geospatial applications.
 
