@@ -49,7 +49,7 @@ PlaceEmotionGAN/
 
 ```bash
 git clone https://github.com/aonoa68/aonoa68-PlaceEmotionGAN.git
-cd aonoa68-PlaceEmotionGAN
+cd aonoa68/PlaceEmotionGAN
 pip install -r requirements.txt
 ```
 
