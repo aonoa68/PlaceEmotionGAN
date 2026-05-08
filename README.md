@@ -119,7 +119,7 @@ Emotion vector ──────┘                 │→ Discriminator (D) �
 ### 📘 Reference
 
 Onohara, A. (2025). *Modeling Emotional Dynamics in Cultural Evolution: A GAN-based Approach.*
-Proceedings of the Workshop on Cultural and Technological Processes (WCTP 2025).
+Proceedings of the Workshop on Computation: Theory and Practice (WCTP 2025).
 
 ---
 
