@@ -116,12 +116,13 @@ The author thanks the OSGeo-JP community for constructive input on open geospati
 @inproceedings{OnoharaOuchi2025WCTP,
   author    = {Ayaka Onohara and Hiroki Ouchi},
   title     = {GAN-Based Modeling of Emotional Dynamics in Cultural Evolution and Niche Construction: An Integrated Empirical Approach},
-  booktitle = {Proceedings of the Workshop on Cultural and Technological Processes (WCTP 2025)},
-  year      = {2025},
-  address   = {Tokyo, Japan},
+  booktitle = {Proceedings of the Workshop on Computation: Theory and Practice (WCTP 2025)},
+  year      = {2026},
+  volume    = {24},
+  pages     = {499--519},
   publisher = {Atlantis Press},
-  doi       = {10.5281/zenodo.16756127},
-  url       = {http://www.lambda.cs.titech.ac.jp/wctp/wctp2025/}
+  doi       = {10.2991/978-94-6239-638-8_25},
+  url       = {https://www.atlantis-press.com/proceedings/wctp-25/126023816}
 }
 
 @article{Goodfellow2014GAN,
