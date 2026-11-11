@@ -4,7 +4,6 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17401003.svg)](https://doi.org/10.5281/zenodo.17401003)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![HuggingFace Space](https://img.shields.io/badge/Demo-HuggingFace-blue)](https://huggingface.co/spaces/ayaka68/placeemotion-gan)
 
 ---
 
@@ -154,7 +153,6 @@ This repository is released under the [MIT License](LICENSE).
 
 ### 🌐 Related Resources
 
-* Demo: [Hugging Face Space](https://huggingface.co/spaces/ayaka68/placeemotion-gan)
 * Project overview: [https://aonoa68.github.io/aonoa68-PlaceEmotionGAN/](https://aonoa68.github.io/aonoa68-PlaceEmotionGAN/)
 * Paper: [WCTP2025 Proceedings (Atlantis Press)](http://www.lambda.cs.titech.ac.jp/wctp/wctp2025/)
 
