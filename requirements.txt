@@ -1,5 +1,5 @@
 # ===== PlaceEmotion-GAN (simulation version) =====
-# Minimal dependencies for full reproducibility and plotting (JOSS submission)
+# Minimal dependencies for full reproducibility and plotting
 
 # --- Core numerical computation ---
 numpy>=1.23
