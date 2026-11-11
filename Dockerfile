@@ -1,5 +1,5 @@
 # ===== PlaceEmotion-GAN (simulation version) Dockerfile =====
-# Purpose: Provide a fully reproducible environment for JOSS reviewers
+# Purpose: Provide a fully reproducible environment for reproducing the results
 # Base: Python 3.11 slim CPU image (~150MB total size)
 
 FROM python:3.11-slim
