@@ -111,7 +111,7 @@ Emotion vector ──────┘                 │→ Discriminator (D) �
 * Fixed seeds: `torch.manual_seed(42); np.random.seed(42)`
 * Common initial checkpoint across λ conditions
 * Evaluation metrics: KL-divergence, Jensen–Shannon distance, spatial emotion entropy
-* Notebook `analysis.ipynb` reproduces all figures used in the JOSS paper
+* Notebook `analysis.ipynb` reproduces all figures used in the accompanying manuscript
 
 ---
 
@@ -127,12 +127,12 @@ Proceedings of the Workshop on Computation: Theory and Practice (WCTP 2025).
 If you use this code, please cite:
 
 ```bibtex
-@article{Onohara2025PlaceEmotionGAN,
-  author  = {Ayaka Onohara},
-  title   = {PlaceEmotion-GAN: A reproducible implementation of a GAN-based model for emotional dynamics in cultural evolution},
-  journal = {Journal of Open Source Software},
-  year    = {2025},
-  doi     = {10.5281/zenodo.17401002}
+@software{Onohara2025PlaceEmotionGAN,
+  author    = {Ayaka Onohara},
+  title     = {PlaceEmotion-GAN: A reproducible implementation of a GAN-based model for emotional dynamics in cultural evolution},
+  year      = {2025},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.17401002}
 }
 ```
 
